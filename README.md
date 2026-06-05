@@ -1,2 +1,15 @@
-# NGO-Research-DataCollection
-Researched and structured data collection of 10 NGOs in india
+# NGO Research & Data Collection
+
+## Overview
+This project contains information collected on 10 NGOs operating in India across sectors such as education, healthcare, women empowerment, and environmental conservation.
+
+## Tools Used
+- Excel
+- Google Sheets
+- Internet Research
+
+## Objective
+To understand NGO operations and practice structured data collection techniques.
+
+## Author
+Aiswarya KR
